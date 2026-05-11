@@ -1,0 +1,4 @@
+dist
+*.log
+tests
+jest.config.js
